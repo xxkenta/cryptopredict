@@ -1,0 +1,1 @@
+{"window_size": 49, "X_train_shape": 7, "activation_function": "relu", "loss_function": "mse", "optimizer": "adam", "sequence_length": 50, "dropout": 0.2, "epochs": 1, "percent_training": 0.9, "batch_size": 1024, "training_time": 54, "processed_per_second": 165.92592592592592}
